@@ -1,9 +1,11 @@
 ## Natural Language Processing using Python
-#Libraries used 
+#Libraries used :
 Spacy,
 NLTK,
 Sklearn
+
 #Techniques
+
 Bag of Words:commonly used technique in NLP for text analysis and feature extraction. It's a way to represent text data as a collection of individual words, disregarding grammar and word order but keeping track of word frequency.
 
 Word Vectors:a representation of words as continuous-valued vectors in a multi-dimensional space. These vectors are designed to capture the semantic meaning of words and their relationships with other words.
